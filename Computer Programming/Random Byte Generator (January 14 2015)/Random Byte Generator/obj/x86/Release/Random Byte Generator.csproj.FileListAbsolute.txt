@@ -1,0 +1,6 @@
+C:\Users\Nat\AppData\Local\Temporary Projects\Random Byte Generator\bin\Release\Random Byte Generator.exe
+C:\Users\Nat\AppData\Local\Temporary Projects\Random Byte Generator\bin\Release\Random Byte Generator.pdb
+C:\Users\Nat\AppData\Local\Temporary Projects\Random Byte Generator\obj\x86\Release\Random Byte Generator.exe
+C:\Users\Nat\AppData\Local\Temporary Projects\Random Byte Generator\obj\x86\Release\Random Byte Generator.pdb
+C:\Users\Nat\Desktop\Portfolio\Computer Programming\Random Byte Generator\Random Byte Generator\obj\x86\Release\Random Byte Generator.exe
+C:\Users\Nat\Desktop\Portfolio\Computer Programming\Random Byte Generator\Random Byte Generator\obj\x86\Release\Random Byte Generator.pdb

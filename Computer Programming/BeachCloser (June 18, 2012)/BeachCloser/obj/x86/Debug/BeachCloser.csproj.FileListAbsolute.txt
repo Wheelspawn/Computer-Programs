@@ -1,0 +1,5 @@
+C:\Users\Nat\AppData\Local\Temporary Projects\BeachCloser\bin\Debug\BeachCloser.exe
+C:\Users\Nat\AppData\Local\Temporary Projects\BeachCloser\bin\Debug\BeachCloser.pdb
+C:\Users\Nat\AppData\Local\Temporary Projects\BeachCloser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nat\AppData\Local\Temporary Projects\BeachCloser\obj\x86\Debug\BeachCloser.exe
+C:\Users\Nat\AppData\Local\Temporary Projects\BeachCloser\obj\x86\Debug\BeachCloser.pdb

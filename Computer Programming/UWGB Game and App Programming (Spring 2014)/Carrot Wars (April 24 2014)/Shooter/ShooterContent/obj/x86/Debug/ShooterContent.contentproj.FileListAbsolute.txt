@@ -1,0 +1,5 @@
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\shooting_things\Shooter\Shooter\ShooterContent\obj\x86\Debug\ShooterContent.contentprojResolveAssemblyReference.cache
+C:\Users\Nat\Desktop\Veggie Shooter\Shooter\Shooter\ShooterContent\obj\x86\Debug\ShooterContent.contentprojResolveAssemblyReference.cache
+C:\Users\Nat\Desktop\Carrot Wars\Shooter\Shooter\ShooterContent\obj\x86\Debug\ShooterContent.contentprojResolveAssemblyReference.cache
+C:\Users\Nat\Documents\Visual Studio 2010\Projects\Carrot Wars\Shooter\ShooterContent\obj\x86\Debug\ShooterContent.contentprojResolveAssemblyReference.cache
+C:\Users\Nat\Desktop\Portfolio\Computer Programming\UWGB Game and App Programming (Spring 2014)\Carrot Wars (April 24 2014)\Shooter\ShooterContent\obj\x86\Debug\ShooterContent.contentprojResolveAssemblyReference.cache

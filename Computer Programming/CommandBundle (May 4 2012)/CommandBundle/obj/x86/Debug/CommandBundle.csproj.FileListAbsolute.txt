@@ -1,0 +1,5 @@
+C:\Users\Nat\AppData\Local\Temporary Projects\CommandBundle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nat\AppData\Local\Temporary Projects\CommandBundle\bin\Debug\CommandBundle.exe
+C:\Users\Nat\AppData\Local\Temporary Projects\CommandBundle\bin\Debug\CommandBundle.pdb
+C:\Users\Nat\AppData\Local\Temporary Projects\CommandBundle\obj\x86\Debug\CommandBundle.exe
+C:\Users\Nat\AppData\Local\Temporary Projects\CommandBundle\obj\x86\Debug\CommandBundle.pdb

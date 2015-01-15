@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finite State Machine 3", "Finite State Machine 3\Finite State Machine 3.csproj", "{3FAB92BF-9E62-44C5-B1B1-3E3DA563F156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FAB92BF-9E62-44C5-B1B1-3E3DA563F156}.Debug|x86.ActiveCfg = Debug|x86
+		{3FAB92BF-9E62-44C5-B1B1-3E3DA563F156}.Debug|x86.Build.0 = Debug|x86
+		{3FAB92BF-9E62-44C5-B1B1-3E3DA563F156}.Release|x86.ActiveCfg = Release|x86
+		{3FAB92BF-9E62-44C5-B1B1-3E3DA563F156}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

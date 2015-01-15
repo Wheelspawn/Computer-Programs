@@ -1,0 +1,4 @@
+C:\Users\Nat\Dropbox\Public\Finite State Machine 1\Finite State Machine 1\bin\Debug\Finite State Machine 1.exe
+C:\Users\Nat\Dropbox\Public\Finite State Machine 1\Finite State Machine 1\bin\Debug\Finite State Machine 1.pdb
+C:\Users\Nat\Dropbox\Public\Finite State Machine 1\Finite State Machine 1\obj\x86\Debug\Finite State Machine 1.exe
+C:\Users\Nat\Dropbox\Public\Finite State Machine 1\Finite State Machine 1\obj\x86\Debug\Finite State Machine 1.pdb

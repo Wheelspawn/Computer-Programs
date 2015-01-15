@@ -1,0 +1,4 @@
+C:\Users\Nat\AppData\Local\Temporary Projects\Finite State Machine 3\bin\Debug\Finite State Machine 3.exe
+C:\Users\Nat\AppData\Local\Temporary Projects\Finite State Machine 3\bin\Debug\Finite State Machine 3.pdb
+C:\Users\Nat\AppData\Local\Temporary Projects\Finite State Machine 3\obj\x86\Debug\Finite State Machine 3.exe
+C:\Users\Nat\AppData\Local\Temporary Projects\Finite State Machine 3\obj\x86\Debug\Finite State Machine 3.pdb

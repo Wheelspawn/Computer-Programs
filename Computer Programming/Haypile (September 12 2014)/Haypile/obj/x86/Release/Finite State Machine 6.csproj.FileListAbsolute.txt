@@ -1,0 +1,4 @@
+C:\Users\Nat\AppData\Local\Temporary Projects\Finite State Machine 6\bin\Release\Finite State Machine 6.exe
+C:\Users\Nat\AppData\Local\Temporary Projects\Finite State Machine 6\bin\Release\Finite State Machine 6.pdb
+C:\Users\Nat\AppData\Local\Temporary Projects\Finite State Machine 6\obj\x86\Release\Finite State Machine 6.exe
+C:\Users\Nat\AppData\Local\Temporary Projects\Finite State Machine 6\obj\x86\Release\Finite State Machine 6.pdb

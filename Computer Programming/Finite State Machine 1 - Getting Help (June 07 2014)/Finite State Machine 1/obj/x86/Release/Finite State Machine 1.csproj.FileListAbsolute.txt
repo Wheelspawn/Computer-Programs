@@ -1,0 +1,5 @@
+C:\Users\Nat\Dropbox\Public\Finite State Machine 1\Finite State Machine 1\bin\Release\Finite State Machine 1.exe
+C:\Users\Nat\Dropbox\Public\Finite State Machine 1\Finite State Machine 1\bin\Release\Finite State Machine 1.pdb
+C:\Users\Nat\Dropbox\Public\Finite State Machine 1\Finite State Machine 1\obj\x86\Release\Finite State Machine 1.exe
+C:\Users\Nat\Dropbox\Public\Finite State Machine 1\Finite State Machine 1\obj\x86\Release\Finite State Machine 1.pdb
+C:\Users\Nat\Dropbox\Public\Finite State Machine 1\Finite State Machine 1\obj\x86\Release\Finite State Machine 1.csprojResolveAssemblyReference.cache

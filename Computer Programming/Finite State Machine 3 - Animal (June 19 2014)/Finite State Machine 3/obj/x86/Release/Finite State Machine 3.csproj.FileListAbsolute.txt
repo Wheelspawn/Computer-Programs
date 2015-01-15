@@ -1,0 +1,9 @@
+C:\Users\Nat\AppData\Local\Temporary Projects\Finite State Machine 3\bin\Release\Finite State Machine 3.exe
+C:\Users\Nat\AppData\Local\Temporary Projects\Finite State Machine 3\bin\Release\Finite State Machine 3.pdb
+C:\Users\Nat\AppData\Local\Temporary Projects\Finite State Machine 3\obj\x86\Release\Finite State Machine 3.exe
+C:\Users\Nat\AppData\Local\Temporary Projects\Finite State Machine 3\obj\x86\Release\Finite State Machine 3.pdb
+C:\Users\Nat\Dropbox\Public\Finite State Machine 3\Finite State Machine 3\obj\x86\Release\Finite State Machine 3.exe
+C:\Users\Nat\Dropbox\Public\Finite State Machine 3\Finite State Machine 3\obj\x86\Release\Finite State Machine 3.pdb
+C:\Users\Nat\Dropbox\Public\Finite State Machine 3\Finite State Machine 3\bin\Release\Finite State Machine 3.exe
+C:\Users\Nat\Dropbox\Public\Finite State Machine 3\Finite State Machine 3\bin\Release\Finite State Machine 3.pdb
+C:\Users\Nat\Dropbox\Public\Finite State Machine 3\Finite State Machine 3\obj\x86\Release\Finite State Machine 3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="BeachCloser.exe" version="1.0.0.3" publicKeyToken="416ad8706bdd772c" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="BeachCloser" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="BeachCloser.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BeachCloser.exe" size="7168">
+      <assemblyIdentity name="BeachCloser" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>50QzrquHvBimfE/sSRHpdSnylOI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=Epoch\Nat" issuerKeyHash="8a65f13bb83129104c6515ff96f7325d91d6be3c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>m6VBgqXC1doDxKZbIEe6t4H7m8Y=</DigestValue></Reference></SignedInfo><SignatureValue>UxsrXcXOTZuZ/X1nI9VkmL9+ZJyLfG6WVkMpolMJ3MqOyMs8S/D5UEx422y+yI/9/JjjbhSWObsVspg6L5pyGMcoeH+VRwpTSxIpy8dYx6e/w33xOpMUosr+rTtpm1JDFFjas+ybnq2JMDLWYNpopfd4wtw+/WYCEiOPd4hPcpQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wF6Pi1Koe8pt8IrJYETV1CnA1QhEnyUYWLxPCZhW/hN8zccG9Q75gq8R9rqfON+3Wd3t1PUXNUDavFg7ZxWVGL9iprPwYiG780y5U8jRkQI1XZ96tBJR4nkk9B3yLfrc83sjyPwlCmfi6fgv8yo4B4i+2FKl5LLFvJVyBJCJbw8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="c69bfb81b7ba47205ba6c403dad5c2a58241a59b" Description="" Url=""><as:assemblyIdentity name="BeachCloser.exe" version="1.0.0.3" publicKeyToken="416ad8706bdd772c" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Epoch\Nat</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>1Owq2ijq/+V+LjmW/58h9Gsf0NQ=</DigestValue></Reference></SignedInfo><SignatureValue>Mlba3ZvomWWTUGzzzI6Jso/UbSv5cqTX96eKGbOKg37iBaga83WYgUeJLvg7U9BmPnH0Uo5oJzpJnUfPYbv9nB1zMlA0t5jJ8VRWaxoZE9Y1HjTYB3kDD5+hHE/O6b2i4JIBcKK681wr5XQ7d15ju8Bbv/plToWDrF9axUmg8Pk=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wF6Pi1Koe8pt8IrJYETV1CnA1QhEnyUYWLxPCZhW/hN8zccG9Q75gq8R9rqfON+3Wd3t1PUXNUDavFg7ZxWVGL9iprPwYiG780y5U8jRkQI1XZ96tBJR4nkk9B3yLfrc83sjyPwlCmfi6fgv8yo4B4i+2FKl5LLFvJVyBJCJbw8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBvTCCASagAwIBAgIQPOWtx1uTapxN0UtCXAtcTzANBgkqhkiG9w0BAQUFADAdMRswGQYDVQQDHhIARQBwAG8AYwBoAFwATgBhAHQwHhcNMTIwNjI5MTUzMTA1WhcNMTMwNjI5MjEzMTA1WjAdMRswGQYDVQQDHhIARQBwAG8AYwBoAFwATgBhAHQwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMBej4tSqHvKbfCKyWBE1dQpwNUIRJ8lGFi8TwmYVv4TfM3HBvUO+YKvEfa6nzjft1nd7dT1FzVA2rxYO2cVlRi/Yqaz8GIhu/NMuVPI0ZECNV2ferQSUeJ5JPQd8i363PN7I8j8JQpn4un4L/MqOAeIvthSpeSyxbyVcgSQiW8PAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAnA0zdlMAnUlJP2hHf7DLuQzeIWpWl/UFZHYLwFRq7r8Z4SO33WmfD9PvT77FR8s6rgASxs+d9NHVg+YqZ98+QbBPrmmlHGKSBRPqYz80Yimh1QwoQ+dNl02CLzF+ir5kG0Pj+NhuetfzUMGCGafSrAUQA1RQpUAEdq3hOEvktac=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
