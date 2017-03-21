@@ -36,7 +36,7 @@ namespace Finite_State_Machine
 
         static void PlayerIsFound()
         {
-            Thread.Sleep(500);\
+            Thread.Sleep(500);
             Console.WriteLine("I found the enemy!");
             CanFight();
         }
