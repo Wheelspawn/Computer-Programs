@@ -4,3 +4,5 @@ C:\Users\Nat\AppData\Local\Temporary Projects\Random Byte Generator\obj\x86\Rele
 C:\Users\Nat\AppData\Local\Temporary Projects\Random Byte Generator\obj\x86\Release\Random Byte Generator.pdb
 C:\Users\Nat\Desktop\Portfolio\Computer Programming\Random Byte Generator\Random Byte Generator\obj\x86\Release\Random Byte Generator.exe
 C:\Users\Nat\Desktop\Portfolio\Computer Programming\Random Byte Generator\Random Byte Generator\obj\x86\Release\Random Byte Generator.pdb
+C:\Users\Nat\Documents\GitHub\Computer-Code\Computer Programming\Random Byte Generator (January 14 2015)\Random Byte Generator\obj\x86\Release\Random Byte Generator.exe
+C:\Users\Nat\Documents\GitHub\Computer-Code\Computer Programming\Random Byte Generator (January 14 2015)\Random Byte Generator\obj\x86\Release\Random Byte Generator.pdb

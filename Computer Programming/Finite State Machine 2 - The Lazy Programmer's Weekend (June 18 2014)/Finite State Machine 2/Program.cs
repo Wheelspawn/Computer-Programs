@@ -40,16 +40,21 @@ namespace Finite_State_Machine_2
             else
             {
                 Console.WriteLine("I'm going to use the computer.");
+                
 
-                int findWebsite = GetRandomClass(1, 4);
+                int findWebsite = GetRandomClass(1, 5);
 
                 if (findWebsite == 1)
                 {
-                    Console.WriteLine("I'm going to look up the news.");
+                    Console.WriteLine("I'm going to go on Reddit.");
                 }
                 else if (findWebsite == 2)
                 {
                     Console.WriteLine("I'm going to play a game.");
+                }
+                else if (findWebsite == 3)
+                {
+                    Console.WriteLine("I'm going to do take-home work.");
                 }
                 else
                 {
@@ -104,7 +109,7 @@ namespace Finite_State_Machine_2
         static void GoDownstairs()
         {
             Console.WriteLine("Going downstairs.");
-
+            
             int findThing = GetRandomClass(1, 2);
 
             if (findThing == 1)
@@ -115,7 +120,9 @@ namespace Finite_State_Machine_2
                 {
                     Console.WriteLine("Working out.");
                     timesWorkedOut++;
+                    p.strength++;
                 } while (timesWorkedOut >= 3);
+                Console.WriteLine("Strength: " + p.strength);
                 TakeShower();
             }
             else
@@ -187,7 +194,18 @@ namespace Finite_State_Machine_2
         static void Main(string[] args) // The entry point of the program.
         {
             Console.WriteLine("\n   ~~~~~~ The Lazy Programmer's Weekend ~~~~~~\n\n");
+            Programmer bacon = new Programmer();
+            Console.WriteLine("Name: " + bacon.name);
+            Console.WriteLine("Strength: " + bacon.strength);
+            Console.WriteLine("Hello?");
+            Thread.Sleep(1000);
             WakeUp();
         } // end main
+
+        public class Programmer
+        {
+            public string name = "Francis Bacon";
+            public int strength = 0;
+
+        }
     }
-}

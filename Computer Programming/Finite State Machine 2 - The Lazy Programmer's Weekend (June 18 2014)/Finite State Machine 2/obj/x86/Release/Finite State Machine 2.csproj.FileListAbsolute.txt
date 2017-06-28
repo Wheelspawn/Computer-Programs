@@ -7,3 +7,8 @@ C:\Users\Nat\Dropbox\Public\Finite State Machine 2\Finite State Machine 2\obj\x8
 C:\Users\Nat\Dropbox\Public\Finite State Machine 2\Finite State Machine 2\bin\Release\Finite State Machine 2.exe
 C:\Users\Nat\Dropbox\Public\Finite State Machine 2\Finite State Machine 2\bin\Release\Finite State Machine 2.pdb
 C:\Users\Nat\Dropbox\Public\Finite State Machine 2\Finite State Machine 2\obj\x86\Release\Finite State Machine 2.csprojResolveAssemblyReference.cache
+C:\Users\Nathaniel\Documents\GitHub\Computer-Code\Computer Programming\Finite State Machine 2 - The Lazy Programmer's Weekend (June 18 2014)\Finite State Machine 2\obj\x86\Release\Finite State Machine 2.exe
+C:\Users\Nathaniel\Documents\GitHub\Computer-Code\Computer Programming\Finite State Machine 2 - The Lazy Programmer's Weekend (June 18 2014)\Finite State Machine 2\obj\x86\Release\Finite State Machine 2.pdb
+C:\Users\Nathaniel\Documents\GitHub\Computer-Code\Computer Programming\Finite State Machine 2 - The Lazy Programmer's Weekend (June 18 2014)\Finite State Machine 2\bin\Release\Finite State Machine 2.exe
+C:\Users\Nathaniel\Documents\GitHub\Computer-Code\Computer Programming\Finite State Machine 2 - The Lazy Programmer's Weekend (June 18 2014)\Finite State Machine 2\bin\Release\Finite State Machine 2.pdb
+C:\Users\Nathaniel\Documents\GitHub\Computer-Code\Computer Programming\Finite State Machine 2 - The Lazy Programmer's Weekend (June 18 2014)\Finite State Machine 2\obj\x86\Release\Finite State Machine 2.csprojResolveAssemblyReference.cache
